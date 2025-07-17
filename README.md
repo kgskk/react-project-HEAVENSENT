@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# --WARNING-- This project wasnt ended, and never will be. This is a demonstration of my frontend skills, including interface design and implementation of multi-page structures.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
