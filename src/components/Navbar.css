@@ -1,0 +1,21 @@
+.active{
+    background-color: #141414;
+    border-radius: 5px;
+    
+}
+
+.export:hover,
+.import:hover {
+    background-color: rgb(12, 12, 12);
+    transition: 0.3s;
+}
+
+.export,
+.import{
+    display: flex;
+    height: 88px;
+    width: 33%;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}

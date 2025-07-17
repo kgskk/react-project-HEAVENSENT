@@ -1,0 +1,52 @@
+.footer {
+    background-color: black;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-top: auto;
+    user-select: none;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.link-nav {
+    -webkit-tap-highlight-color: transparent;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+.active{
+    background-color: #141414;
+    border-radius: 5px;
+    
+}
+
+.export:hover,
+.import:hover,
+.home:hover {
+    background-color: rgb(12, 12, 12);
+    transition: 0.3s;
+}
+
+.export,
+.import,
+.home{
+    display: flex;
+    height: 88px;
+    width: 33%;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}

@@ -1,0 +1,1046 @@
+{
+   "Balance": {
+     "kazna": 7000,
+     "energy": 1000,
+     "relationship": 5,
+     "credit": 54,
+     "population": 34
+   },
+   "ImportPage":[
+    {
+      "name": "Європа",
+      "friendship": 67,
+      "count": 45,
+      "price": 234,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAw1BMVEUAM5n/zAAAL5hEXar/0AAAL5v/0wD/zgAAKZ3/0gAAMpoAH6AAJZ4AK5wAI58ALZtQWIM/T4n4yQD/1wDUrkGdil/Bo0UAJJ4AHKDWsTH/2gCOf2lVW4GtlVXctS8ANJbovSJJVIZeYX0ySIyHe2unkFrvwhU8TYkAGKLKqT4qQpFuanm7nkyzmFPguCgdPpFzbnVfYX+OgWKgjVggP5F8c3IVOpNybXbGpUUAEaPtwByBd25lZXvTrzeYh2KkkVMuRY3w7b/FAAAJWUlEQVR4nO2da0PivBKASU+aW2/Yyk3uoAgIuLLCuoLI//9VJ2mLsLXdfcFtCd08nyISJk07yWQymRYKCoVCoVAoFAqFQqFQKBQKhUKRZ/RzN0A+9K7qlCh2xz53E2RD796oByUCuUN35NyNkIzqAA6q526EXOj3CKB7pTwBxBQMSxDA0tAv/0sqxOI+1N5HZc5kgAEeTERx9K7959qXDhvHfmpNPcjBAAAsCt7Uir38cR47xao/ODEfM7sHINgBQc+Ou3jnoW6l3cAzYL9NzNh/WIU3FHYJeivEX7o5ecuhSccK0DXjn39WLQVPCixVE75hujCHI4q1oKgRpzwcUqd+n9B6wpzjNBBd5E957BGE03jlKRgzPuvwYRbPjPgvmFMIRzlSHp0EQD7ZDoNiZLJljwhgXMIQoMeIgmhBhSGfqmH4Ozkw7PResySY8CEDvvvFZvfXTrHqlM6e7ccZpZHZResGld9F5UlQuZeDTiG3HhKGhz+IchD9Fhk17JZ3Z2gFzfjutSIKQr7RXypTL2nIuSzItkM/DBCAWsvIVbExbARdYTdw1DQjyxraV6adfsKQdGno9tTDwUVhVDKiprv+tNxpjLV8imqGZpTQrrI3reRAcQKY0XP968KDbszsoe+fDRZzzZXuIKjsro0c2SjMDvukc4qPpNoJ+yTW7L9UnDUfFDC/slN8JMK3ElReJ9h8F4nJZ2I6e4UAfj9+2iDfeb3XGeWzcU4GWAGruBhNbauMcCfBUv0NRgejF8tuIpy0YLpEnCcPr23GjAX1+rEeo9+g9T26MJjwKXhP+VEes9xq+9Mtee4c7Z0nd69jv47VbpXzozzOfDdjaOb82OWtNTfDcZnZ8/w8JweOInb8iv/AF5k/d4FC8QvZLUouZvlDTjDMZJf0RVjF2x5rhJyGtvUql2HFOWvv6An3NKy5dyFLIHNCk3zNfxljRi9jCcSIi+lzFo80e6bYJXIrj+ZDegjQuhn8kaoks04B6pFUJX0RVrwS9MsQ4NbWLxfbqUhqB5K2LQxguR9IkvNxcR6ghzjQ97tyPO82nRHQufV8ScL9Bn1JMHZ/XgIs7frAxw5oZ5yW9UDGs4OtAICu5V0JseotDX3s/Em5++Sh/3toxh36kETrCVvvcmDeB/5kgN2ndPd37YYbSurcSz4fk24YIrBIu6HmIpTUld2+J80wlOQ67TAA+zqU1JS9T2wRAQD4HUw7hoYVeJdQIKIVJA/C0LsIo4nYzkw7hsZaULHROuHyJA9KJ3w6+GGwStdFKcfQ2CPkFm1mPGDZg9INd/YoWujoI89JU3mY4410YaeR5czNZsV5InpjGholzKiv0jQtnVU93FDXjGZDauVp7x/jtC3L/e+TdFZVCoVCoVAoFArFv8v5lh3SLnj04rmadj7Jf4Cxs6VhsDtMTs+99cPLZJv4M+zZ+yHnBk/lBZ3pwKtVRy+Vs0j+A4xg2DqPx8toQSxlfIHzQAFanqNlbIkAlWvDmBFb8LMMAb0dimIlKxWyKkLc8JYCWP7pt0KOx4W1J7VrgX9myS+1StncNGfT8uX5Z578Um3SlqNTnIkHMQ7OHXGgN89qA9es+5J3oqE3SXWz4AiYsT5Iw0BfMzzHaPZf90EXEMt0OM5a1nZNQxMzy9FONye7mBdai55IPS9aNdw7p4uMY0GY8Y2Ge+lVyYLazOmuT7I226ww5iIxG8LZEAdDsThBn3mqBXskxGJxrDRjyX/AaSAA3TlvGo1P/ZMazKL8ZswHECSmEjkTZArRyKmMOzRr5eGqQzvjijVCcCrVEFuouHTF50HdbnqjbFdjlZF/Yp8ZK+pKtQ7UG+7WH+GY3cOZujIYEydSRYlsXaniC/SetWuO9djNtE+6zztd1S25UqMcpmHIeIz9fQIIhUKhUCgUCoVC8RWyMu/l8Uj/CfKeWQ6HzCR9EWYen0jqNLS+dyGZuJwHb5PN7SMbT65t4kTMcoY5HC4jExcjANNxFsqjjSkGcmyaJ6L7kDUCdG4Gf6TTYBb8uDmnAK1J8Ecqgr4MWzeKnO4LBHh2JYrFdSq7/Ky99n/9aoYBfOmKYmMt5+PiPIFoDodFSjkcFiiSwwHLmvXQIeWPJAJ+luV2WtOP1T7MyCxSZEraJWI/ewH3ORw+Z1n+m5I2+xwOcCFRiMVnyHgWZlYYFNPdgdplZOZj11ZyY9Y6Qw4HOUNj9/gxF/wG4tTfg2K/YV+SfDEWUfwcDi6/gzTlYDvWFkLcS8jhUEQYTX/WKaarlHM4rLiM+c8mlyfrAYQQ0kRgbTPzfoBSToBiX6PBlcnsnoskT4BiuDU/y7JDJjcpGfYBTL8p+0YJN1WA5DkcvochfsxYpZzDYRUaJaxakirG4hOHORxSHmNVDgfFP4P2FWXKZ7yN3tie3ilsK/c4eiKk+YXsw9ZcciPkNOzX2ulWnF17ldyCPwXtHp2+BOKLG3Qv2QmDvwApwdOXQHxxA0v5Ux6jg+HJ/gP7DZ7y5h5p0W2DMxwjACCpirL937VA8ytXCQQAjYd+5RzMP/qTi12O72gSBRcPunGdEnetWncQ1hHuI7/gfnpb3gXisBEKjzH6RyjRxIq7Kj32WnVr4uGD2ui6IK2H/hiYsc/IDCD8Fu9kNwexLkRm/IAf5y8xrUvtoT8Gs/8aXhecJZxjdBo3CUeSyLK1q5zlidTU0avhqyBbw4TxlTQT3WXasBW+hNLIwVDyAXsM9h0wSPKqVPnomfCOSWaBQPVo9O3GF40lXu5NRbLkhBgavYtAUr5gkRwCQPEDZ0olkg5GC2O62iAMy9HdwTABxB0E8C5MwxD5hlmGGG1WFONajsw2tqTixH6l6NJoDI0+ndU4b+IorvsmirPpr48LI4C6RVucwqdnSSWSDtbtzUTYnw55uYm+RMjefKRhCBJAbCJvn3XWNyPhodft6c1tfpTHrP0I7Apuqrx8Uo2rwT4NAx1cRadb8nIbVrYfajmai7cf95f0Pz3+jlXeBZOg8udAEtb/6EVrm1oLs4fFFj8+qtbDEIH6MO7fv62cV8gmfM1DRnG1l4DR4bMOXxPlykfyNbStB6C7ciHI6sWC8kM2FL0xU7tGVClPiDFDwgfAjDrKKChderS+G75pyey7GZ3okB2tyHZGic6Kqk98DjaSmeoShUKhUCgUCoVCoVAoFAqFQpFbNEWUwv8UUf4PhUGk3byi8xwAAAAASUVORK5CYII="
+    },
+    {
+      "name": "Азія",
+      "friendship": 67,
+      "count": 45,
+      "price": 234,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flag_of_Asia.png"
+    }
+
+    
+  ],
+  "ExportPage":[
+    {
+      "name": "Європа",
+      "friendship": 345,
+      "count": 879234,
+      "price": 7435,
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "name": "Азія",
+      "friendship": 345,
+      "count": 879234,
+      "price": 7435,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Flag_of_Asia.png"
+    }
+  ],
+   
+   "Regions": [
+     {
+       "name": "Київська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Ресторани",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://womo.ua/wp-content/uploads/2021/11/podborka_rooftop_restaurant_07_2019_4.jpeg"
+         },
+         {
+           "name": "Університети",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://bigkyiv.com.ua/_next/image/?url=https%3A%2F%2Fadm.bigkyiv.com.ua%2Fwp-content%2Fuploads%2F2019%2F07%2F000.-Universitet.jpg&w=3840&q=75"
+         },
+         {
+           "name": "Підприємства",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.papir.kiev.ua/wp-content/uploads/2023/12/3097872.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Ар Крим",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Порти",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+               "image": "https://cfts.org.ua/imglib/_newimage/news/142861/1068.jpg"
+         },
+         {
+           "name": "Готелі",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+               "image": "https://i.lb.ua/009/25/5cfeb7b13d0eb.jpeg"
+         },
+         {
+           "name": "Курорти",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+               "image": "https://guide-tours.ru/wp-content/uploads/2022/02/livadiya-krym.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Вінницька",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Агропромисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.myvin.com.ua/uploads/article/img_large/7686/1ff95bfa28da78015abf55e6ff6f4737.jpeg"
+         },
+         {
+           "name": "Фабрики",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://33by.pro/images/folio/singl/roshendon/1.jpg"
+         },
+         {
+           "name": "Логістика",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://vsau.org/assets/components/phpthumbof/cache/logistika.42c6f067f355fbc7697eb68d1c9b2b6e.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Волинська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Екотуризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://volyn.com.ua/content/thumbs/750x500/b/qh/o4pqzz-0x0-1280x853-tbrdjvarv6ewfqt4yistijcmdz7rvqhb.jpg"
+         },
+         {
+           "name": "Місцеві ремесла",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://volyntravel.com.ua/media/37/a71edee061e5a1a.jpg"
+         },
+         {
+           "name": "Традиції",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.volynnews.com/files/news/2015/05-14/153615/13w.JPG"
+         }
+       ]
+     },
+     {
+       "name": "Дніпропетровська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://adm.dp.gov.ua/storage/app/media/uploaded-files/000012.png"
+         },
+         {
+           "name": "Технологічні парки",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://budport.com.ua/assets/upload/userfiles/1_743.jpg"
+         },
+         {
+           "name": "ІТ-компанії",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://dnepr-future.com.ua/wp-content/uploads/sites/5/2022/12/img_63a1d606920e6.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Донецька",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Вугільна промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://img.pravda.com/images/doc/e/4/e48942f-ba01c5e-gettyimages-3358678.jpg"
+         },
+         {
+           "name": "Металургія",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoeXaOuqw7PGnO1tY0yqGaBN9yBqW1Y31iw&s"
+         },
+         {
+           "name": "Виробництво",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.depo.ua/uploads/247134/conversions/b249ec830c228f3c2ae2794e7ff2f34c-wide-big.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Житомирська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Авіаційна промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://media.slovoidilo.ua/media/publications/4/38622/38622-1_large.jpg"
+         },
+         {
+           "name": "Сільське господарство",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://oda.zht.gov.ua/wp-content/uploads/images/news/2015_11/36480.jpg"
+         },
+         {
+           "name": "Логістика",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://berta.ua/wp-content/uploads/2024/07/mg_5050_1_2-1-scaled-e1721308864393.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Закарпатська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Туризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.ukrwest.com.ua/ckfinder/userfiles/images/blog/zakarpattya/eko-zakarpattya.jpg"
+         },
+         {
+           "name": "Виноробство",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://zakarpattya.net.ua/postimages/news/2012/3/zo2008_9_23_8_31_24.jpg"
+         },
+         {
+           "name": "Культурний центр",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://mukachevo.net/uploads/media/images/image/2i/m3/2im33d4bec1e404693f373ed42016dd3esaztux0dtxfw30_image.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Запорізька",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Морські порти",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://com3s.com/wp-content/uploads/2018/01/port-yuzhnyj.jpg"
+         },
+         {
+           "name": "Кораблебудування",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc40itsyLPlYJRv_UkjBcvF1SlsMpVwWHVNg&s"
+         },
+         {
+           "name": "Енергетика",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://ua-energy.org/system/posts/covers/000/013/285/original/zaes.jpg?1661870970"
+         }
+       ]
+     },
+     {
+       "name": "Івано-Франківська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Гірський туризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://karpaty.love/uploads/posts/2017-12/thumbs/1513761742_poljanytsja-7.jpg.pagespeed.ce.F74HHV7ytQ.jpg"
+         },
+         {
+           "name": "Культурна спадщина",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://mandry.if.ua/uploads/posts/2014-12/1419413852_5555555.jpg"
+         },
+         {
+           "name": "Ремесла",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://firtka.if.ua/data/blog/35147/3f737d5962b72d7077d952daa81e5225.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Кіровоградська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Аграрний сектор",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://library.vn.ua/assets/publilc/news/2020/vystavky/agrarnyi-kadry.jpg"
+         },
+         {
+           "name": "Переробка продукції",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://latifundist.com/media/minigallery/o-o-w/00/04/4746/prodazha-kirovohrad-pererabotka-soi-krupy-134011.jpg"
+         },
+         {
+           "name": "Логістика",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://richfield.com.ua/media/directions-bg/direction-bg-4-1519.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Луганська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Металургійний комплекс",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://gmk.center/wp-content/uploads/2021/12/shutterstock_1186446739-1280x720.jpg"
+         },
+         {
+           "name": "Машинобудування",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lysychanskiy_Refinery_TNK-BP.JPG"
+         },
+         {
+           "name": "Технопарк",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://gdb.rferl.org/96d2c4a9-893a-4934-abb2-2f290d3b7d80_w1080_h608.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Львівська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Культурний туризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7CV2R8ryOPZPMk4aEQgEgRCoLi8ZDcX2tug&s"
+         },
+         {
+           "name": "Кав'ярні",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://afishalviv.net/wp-content/uploads/2024/01/manyfactura_kavy-8-zatishnih-kavyaren-lvova-yaki-varto-vidvidati-1.jpg"
+         },
+         {
+           "name": "ІТ-стартапи",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://psm7.com/wp-content/uploads/2024/10/image-16.png"
+         }
+       ]
+     },
+     {
+       "name": "Миколаївська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Морський транспорт",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://cdn.abo.media/upload/article/o_1fpnlakn71fh816ibql15ahrkg1k.jpg"
+         },
+         {
+           "name": "Рибальство",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://map.fishergo.com.ua/media/djcatalog2/images/item/10/rybalka-v-sele-rodniki-dobraprud-v-nikolaevskoj-oblasti_l.jpg"
+         },
+         {
+           "name": "Логістика",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://biznesua.com.ua/wp-content/uploads/2016/04/skladska-logistika.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Одеська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Порти",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwOMY2VC-uYOOI-P-0_fMwEq5ldU8cGKWpw&s"
+         },
+         {
+           "name": "Туризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2k7zYDViMe1SRjrmVYlk5WJmte_0BAPSdzw&s"
+         },
+         {
+           "name": "Кіноіндустрія",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://odessa.online/wp-content/uploads/2024/07/photo_2024-07-06_11-16-50.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Полтавська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Історичний розвиток",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://poltava24.com.ua/wp-content/uploads/2023/06/657880987654.webp"
+         },
+         {
+           "name": "Сільгосп",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://i1.poltava.to/uploads/2019/02/2019-02-02/rinok.jpg"
+         },
+         {
+           "name": "Освіта",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://cdn4.suspilne.media/images/resize/400x1.78/c80c376e18f7c162.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Рівненська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Лісова промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.turystam.in.ua/images/new_sait/1/4.jpg"
+         },
+         {
+           "name": "Екотуризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.rv.gov.ua/storage/app/uploads/public/5ea/05a/deb/5ea05adeb483e106672111.jpeg"
+         },
+         {
+           "name": "Локальне виробництво",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQuUutFN7eFUn5X-k7HxmoukxkeO0VMBcevQ&s"
+         }
+       ]
+     },
+     {
+       "name": "Сумська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Легка промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.golos.com.ua/images_article/orig/2019/09/200919/guala.jpg"
+         },
+         {
+           "name": "Культурні заходи",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://images.karabas.com/external/018e50bb-71e5-7428-9b44-4f503fcfd169/events/01909802-5eaf-78c8-9356-c8d536707388/2390773009_ImageBig638797928225317182_380_540.jpeg"
+         },
+         {
+           "name": "ІТ-сектор",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://www.sknews.net/wp-content/uploads/2024/10/zrzutekranu-Sumy-tekhnolohii-2024-10-17.webp"
+         }
+       ]
+     },
+     {
+       "name": "Тернопільска",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Культурний туризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://ternopil-day.com/wp-content/uploads/2024/08/musey-1.jpg"
+         },
+         {
+           "name": "Сільське господарство",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://109.te.ua/firms/photos/14523/1_1.jpg"
+         },
+         {
+           "name": "Малий бізнес",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://pro.te.ua/wp-content/uploads/2021/11/1111-1.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Харківська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Наукові центри",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://karazin.ua/storage/static-content/source/news/2023-11/nnc-hfti.jpg"
+         },
+         {
+           "name": "ІТ-інновації",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://kharkov-future.com.ua/wp-content/uploads/sites/19/2025/01/ad_4nxegql1utz0jyc3mka-xgy7t0bisg0fobzvgddfzp1mxvzepmjmfp4ok7ytosdzykw2zqrthk2fonkzkj5zb57njreqvtofmeimrvu0l9t7lvlcejgu5geu6xomgl7frdpv9kxarhqkeyd3ompvzxqs_zkdmrmfuf9h2.png"
+         },
+         {
+           "name": "Освітні кластери",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://i.lb.ua/073/35/558d1a2f1c512.jpeg"
+         }
+       ]
+     },
+     {
+       "name": "Херсонська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Сільгосп",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yGwm2xtFBcZYYj48IVbfNKXAIyaY_P7nWA&s"
+         },
+         {
+           "name": "Виноробство",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://khers-on.com/wp-content/uploads/2021/02/vidy-vina.jpg"
+         },
+         {
+           "name": "Морський розвиток",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://elevatorist.com/media/news/500-s/00/17/17060/Kherson-seaport-32659.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Хмельницька",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Медицина",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://ye.ua/images/news/_Likarnya_na_Hmelnichchini_onovit_reabilitaciyne_viddilennya_za_mayzhe_15_milyoniv_griven_1_2025_01_31_02_52_57.jpg"
+         },
+         {
+           "name": "Промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://ye.ua/images/news/_Na_Hmelnichchini_vprodovzh_roku_sposterigayetsya_padinnya_promislovogo_virobnictva_1_2020_11_29_01_42_45.jpg"
+         },
+         {
+           "name": "Логістика",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-4IjD1FXd1tocPTxhsWuf0deIcw-MMHmGg&s"
+         }
+       ]
+     },
+     {
+       "name": "Черкаська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Машинобудування",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://vikka.s3.eu-central-1.amazonaws.com/wp-content/uploads/2020/08/prev-54924-531336.jpg"
+         },
+         {
+           "name": "Хімічна промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://dzvin.media/wp-content/uploads/2019/07/27-9.jpg"
+         },
+         {
+           "name": "Транспорт",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://cfts.org.ua/imglib/00/dc61edfc15489c3072661214b4a8dc56.jpg"
+         }
+       ]
+     },
+     {
+       "name": "Чернівецька",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Культурний центр",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://zvo.knu.ua/uploads/m_127_39709711.jpg"
+         },
+         {
+           "name": "Туризм",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://chernivtsi-tours.com.ua/upload/Bez-imeni-158-1-1024x473-111.jpg"
+         },
+         {
+           "name": "Освіта",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://static.espreso.tv/uploads/photobank/359000_360000/359320_Screenshot_95_new_960x380_0.webp"
+         }
+       ]
+     },
+     {
+       "name": "Чернігівська",
+       "level": 0,
+       "price": 5000,
+       "cards": [
+         {
+           "name": "Агропромисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://we.org.ua/wp-content/uploads/2014/08/agropromyslovyj-kompleks-ukrayiny-1024x453.jpg"
+         },
+         {
+           "name": "Лісова промисловість",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://cheline.com.ua/wp-content/uploads/2020/09/original-photo-2-e1600350766114.jpg"
+         },
+         {
+           "name": "Культурний розвиток",
+           "xp": 0,
+           "price": 5000,
+           "profit": {
+             "kazna": 10,
+             "xp": 1
+           },
+           "energy/h": 0,
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbzQNr3r_d3uyQX2Ow_DOnREnoFq2658Z2w&s"
+         }
+       ]
+     }
+   ]
+ } 

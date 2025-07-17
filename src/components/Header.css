@@ -1,0 +1,63 @@
+.header {
+    background-color: black;
+    display: flex;
+    height: 103px;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    flex-direction: column;
+    padding: 10px 10px 0 10px;
+}
+
+.icons {
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+
+#symbol {
+    height: 100px;
+    width: 80px;
+    align-self: center;
+}
+
+#consumables,
+#world {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+#world {
+    align-self: flex-end;
+}
+
+.icons1,
+.icons2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 30px;
+}
+
+.text1 {
+    color: white;
+    font-family: "Pacifico", sans-serif;
+    font-size: 2em;
+    position: relative;
+    margin: 0;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    height: 100%;
+}
+.with-margin{
+    margin-top: 30px;
+}

@@ -1,0 +1,138 @@
+.card-container {
+    font-family: "Pacifico";
+    margin-bottom: 20px;
+    color: white;
+    width: 400px;
+    height: 200px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    background-color: #1E1E1E;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.region-page {
+    width: 100%;
+}
+
+.card-img {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.card-name {
+    font-size: 20px;
+    text-align: center;
+    margin: 0
+}
+
+.card-box {
+    width: 250px;
+    height: 200px;
+    display: flex;
+    padding: 10px 0 20px;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+p {
+    margin: 0;
+}
+
+.card-info {
+    padding: 0 20px;
+    width: 200px;
+}
+
+.card-info p {
+    font-size: 13px;
+}
+
+.card-button {
+    width: 140px;
+    height: 35px;
+    font-size: 13px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.card-button:hover {
+    background-color: #D9D9D9;
+    transition: 0.3s;
+}
+
+.card-button:active{
+    background-color:#b1b1b1 ;
+}
+
+.region-name {
+    color: white;
+    width: 55%;
+    height: 65px;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 0 0 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 20px;
+    line-height: 1;
+}
+
+.region-progres-box {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.region-progres {
+    width: 50%;
+    height: 50px;
+    color: white;
+}
+
+.region-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.region-info-box {
+    width: 45%;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (min-width: 400px) {
+    .card-container {
+        font-family: "Pacifico";
+        margin-bottom: 20px;
+        color: white;
+        width: 95vw;
+        height: 200px;
+        border: 1px solid orange;
+        border-radius: 15px;
+        background-color: #1E1E1E;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
